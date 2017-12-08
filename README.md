@@ -1,5 +1,5 @@
 # PiFlask
-Control Raspberry Pi GPIO pins using JSON requests through iOS and web apps.
+Control Raspberry Pi GPIO pins and run Python functions using the Flask framework and JSON requests through iOS and web apps.
 
 ## Features:
 Use iOS app and web app to:
